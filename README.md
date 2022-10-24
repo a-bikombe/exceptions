@@ -2,8 +2,6 @@
 
 ***Fall 2020***
 
-Book conditions.
-
 ## Used In This Repository
 
 - [Java 18.9 and JVM 18.9](https://www.java.com/en/download/manual.jsp)
